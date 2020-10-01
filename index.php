@@ -1,4 +1,4 @@
 <?php
-	echo "welcome to the world of php ";
+	echo "you loose the connection";
 ?>
 
